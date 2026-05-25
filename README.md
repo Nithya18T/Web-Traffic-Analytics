@@ -35,7 +35,7 @@ Web-Traffic-Analytics/
 │
 ├── requirements.txt
 ├── README.md
-└── .gitignore
+
 ```
 
 ## How to Run
